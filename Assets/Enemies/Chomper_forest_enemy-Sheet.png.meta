@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: 5cbc15c4ebbddeb47a1f317e1d3b12c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3460817623732763726
+    second: Chomper_forest_enemy-Sheet_0
+  - first:
+      213: -8533283262584199015
+    second: Chomper_forest_enemy-Sheet_1
+  - first:
+      213: 5604239901326070229
+    second: Chomper_forest_enemy-Sheet_2
+  - first:
+      213: -1336727583071375900
+    second: Chomper_forest_enemy-Sheet_3
+  - first:
+      213: -8714539224725161401
+    second: Chomper_forest_enemy-Sheet_4
+  - first:
+      213: -6884362539733837300
+    second: Chomper_forest_enemy-Sheet_5
+  - first:
+      213: -6556332876305464454
+    second: Chomper_forest_enemy-Sheet_6
+  - first:
+      213: -1391597752519869452
+    second: Chomper_forest_enemy-Sheet_7
+  - first:
+      213: 4582431390265759905
+    second: Chomper_forest_enemy-Sheet_8
+  - first:
+      213: -8998690693236155630
+    second: Chomper_forest_enemy-Sheet_9
+  - first:
+      213: 3868620284244686170
+    second: Chomper_forest_enemy-Sheet_10
+  - first:
+      213: -3790653868088328127
+    second: Chomper_forest_enemy-Sheet_11
+  - first:
+      213: -2242722462981604702
+    second: Chomper_forest_enemy-Sheet_12
+  - first:
+      213: 4459863790116842011
+    second: Chomper_forest_enemy-Sheet_13
+  - first:
+      213: 3224338339227036502
+    second: Chomper_forest_enemy-Sheet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 284
+        width: 119
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cb007ea4b470030800000000000000
+      internalID: 3460817623732763726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 11
+        width: 332
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998e1ed7510b39980800000000000000
+      internalID: -8533283262584199015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 293
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15c9a6f7246cd40800000000000000
+      internalID: 5604239901326070229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 257
+        width: 149
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed6091785df27de0800000000000000
+      internalID: -1336727583071375900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2555
+        y: 11
+        width: 428
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a7c092fbcbf0780800000000000000
+      internalID: -8714539224725161401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 11
+        width: 332
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a982abeb4d570a0800000000000000
+      internalID: -6884362539733837300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 11
+        width: 203
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7309966cf93305a0800000000000000
+      internalID: -6556332876305464454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 236
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb32d2973d00bce0800000000000000
+      internalID: -1391597752519869452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 245
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d3681211189f30800000000000000
+      internalID: 4582431390265759905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 245
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b9b0add7a3e1380800000000000000
+      internalID: -8998690693236155630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 248
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a557645d6a910b530800000000000000
+      internalID: 3868620284244686170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 242
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14082260464e46bc0800000000000000
+      internalID: -3790653868088328127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 11
+        width: 197
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa31386dcf30e0e0800000000000000
+      internalID: -2242722462981604702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 11
+        width: 521
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aaa8cdc7e94ed30800000000000000
+      internalID: 4459863790116842011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chomper_forest_enemy-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 3980
+        y: 11
+        width: 203
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bec41e2a62fbc20800000000000000
+      internalID: 3224338339227036502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
