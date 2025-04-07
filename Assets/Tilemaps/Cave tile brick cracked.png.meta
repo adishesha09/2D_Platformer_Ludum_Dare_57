@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Cave tile brick cracked_0: 5024928532218621404
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

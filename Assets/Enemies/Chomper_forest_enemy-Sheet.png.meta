@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chomper_forest_enemy-Sheet_0: 3460817623732763726
+      Chomper_forest_enemy-Sheet_1: -8533283262584199015
+      Chomper_forest_enemy-Sheet_10: 3868620284244686170
+      Chomper_forest_enemy-Sheet_11: -3790653868088328127
+      Chomper_forest_enemy-Sheet_12: -2242722462981604702
+      Chomper_forest_enemy-Sheet_13: 4459863790116842011
+      Chomper_forest_enemy-Sheet_14: 3224338339227036502
+      Chomper_forest_enemy-Sheet_2: 5604239901326070229
+      Chomper_forest_enemy-Sheet_3: -1336727583071375900
+      Chomper_forest_enemy-Sheet_4: -8714539224725161401
+      Chomper_forest_enemy-Sheet_5: -6884362539733837300
+      Chomper_forest_enemy-Sheet_6: -6556332876305464454
+      Chomper_forest_enemy-Sheet_7: -1391597752519869452
+      Chomper_forest_enemy-Sheet_8: 4582431390265759905
+      Chomper_forest_enemy-Sheet_9: -8998690693236155630
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Forest grass top tile_0: -3329443163820497357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

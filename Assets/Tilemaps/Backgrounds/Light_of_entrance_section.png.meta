@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Light_of_entrance_section_0: 6954538007888915643
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

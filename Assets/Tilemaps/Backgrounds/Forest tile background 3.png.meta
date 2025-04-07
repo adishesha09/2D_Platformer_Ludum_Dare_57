@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Forest tile background 3_0: -270639192901640564
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
